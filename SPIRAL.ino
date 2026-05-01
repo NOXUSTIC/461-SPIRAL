@@ -9,7 +9,7 @@
  * ║    • NewPing              • Preferences (built-in)              ║
  * ╠══════════════════════════════════════════════════════════════════╣
  * ║  CHANGES IN v2.3  (on top of v2.2)                              ║
- * ║    • TCRT5000 now uses MAXIMA-style per-sensor threshold array   ║
+ * ║    • TCRT5000 now uses per-sensor threshold array   ║
  * ║      threshold_ir[2] stored in flash via Preferences            ║
  * ║    • IR Calibration added: robot reads surface & edge values    ║
  * ║      and auto-calculates midpoint threshold (same as MAXIMA)    ║
